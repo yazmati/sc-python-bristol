@@ -1,0 +1,8 @@
+doc-warnings: true
+strictness: veryhigh
+python-targets:
+-3
+pep8:
+full:true
+ignore-patterns:
+-^.*\.ipynb
